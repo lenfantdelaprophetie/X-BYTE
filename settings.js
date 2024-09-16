@@ -48,4 +48,4 @@ BOT_EXPIRY_TIME : process.env.BOT_EXPIRY_TIME || '16:24:00',
 DELETEMSGSENDTO : process.env.DELETEMSGSENDTO === undefined ? '' : process.env.DELETEMSGSENDTO  
 
 };
-OWNER_NAME: process.env.OWNER_NAME === undefined ? 'WONDER WISE' : process.env.OWNER_NAME,   
+
